@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<?fyp appVersion="5.2.3" schemaVersion="23"?>
+<figure xmlns="http://www.keck.ucsf.edu/datanav/namespace/schema23"
+   strokeWidth="0.01in" strokeJoin="miter" loc="-2.42in 0.78in" strokePat="solid" psFont="Helvetica" fontStyle="plain" fillColor="000000" altFont="serif" strokeCap="butt" width="13.33in" fontSize="12" strokeColor="000000" font="Arial" height="9.45in">
+   <graph strokeWidth="0.5pt" loc="3.332in 2.579in" width="2in" fontSize="10" title="0.671042" clip="true" height="2in">
+      <axis labelOffset="15pt" lineHt="0.8" start="0.6" spacer="0in" fontSize="11" end="2.4">
+         <ticks len="0.04in" intv="1" perLogIntv="1" gap="5pt" start="1" fontSize="10" end="2" fmt="f2">Pyr,PV</ticks>
+      </axis>
+      <axis labelOffset="23pt" lineHt="0.8" start="0" spacer="0in" fontSize="11" end="2.5" title="Tuning Width (rad)">
+         <ticks len="0.04in" intv="0.5" perLogIntv="1" gap="3pt" start="0" fontSize="10" end="2.5" fmt="f1"/>
+      </axis>
+      <colorbar cmapnan="ffffff" lineHt="0.8" gap="0.6in" cmap="tropic" start="1" spacer="0.1in" end="2" title="colormap">
+         <ticks intv="10"/>
+      </colorbar>
+      <gridline strokeColor="262626"/>
+      <gridline strokeColor="262626"/>
+      <legend loc="0in 0in" size="0.1in" mid="true"/>
+      <bar strokeWidth="0pt" src="#src_src_5" legend="false">808080,group 0,</bar>
+      <line p0="0.6u 0u" p1="2.4u 0u" strokeColor="262626"/>
+      <trace strokeWidth="1pt" src="#src_38" legend="false">
+         <symbol fillColor="ffffff" size="0pt" type="circle"/>
+         <ebar cap="linethru" capSize="6pt"/>
+      </trace>
+      <label loc="50% 105%" fontSize="11" fontStyle="bold" align="center" title="0.671042" font="Helvetica"/>
+   </graph>
+   <graph strokeWidth="0.5pt" loc="6.645in 2.579in" width="2in" fontSize="10" title="0.233813" clip="true" height="2in">
+      <axis labelOffset="15pt" lineHt="0.8" start="0.6" spacer="0in" fontSize="11" end="2.4">
+         <ticks len="0.04in" intv="1" perLogIntv="1" gap="5pt" start="1" fontSize="10" end="2" fmt="f2">Pyr,PV</ticks>
+      </axis>
+      <axis labelOffset="29pt" lineHt="0.8" start="0" spacer="0in" fontSize="11" end="0.18" title="OSI">
+         <ticks len="0.04in" intv="0.02" perLogIntv="1" gap="3pt" start="0" fontSize="10" end="0.18" fmt="f2"/>
+      </axis>
+      <colorbar cmapnan="ffffff" lineHt="0.8" gap="0.6in" cmap="tropic" start="1" spacer="0.1in" end="2" title="colormap">
+         <ticks intv="10"/>
+      </colorbar>
+      <gridline strokeColor="262626"/>
+      <gridline strokeColor="262626"/>
+      <legend loc="0in 0in" size="0.1in" mid="true"/>
+      <bar strokeWidth="0pt" src="#src_src_13" legend="false">808080,group 0,</bar>
+      <line p0="0.6u 0u" p1="2.4u 0u" strokeColor="262626"/>
+      <trace strokeWidth="1pt" src="#src_69" legend="false">
+         <symbol fillColor="ffffff" size="0pt" type="circle"/>
+         <ebar cap="linethru" capSize="6pt"/>
+      </trace>
+      <label loc="50% 105%" fontSize="11" fontStyle="bold" align="center" title="0.233813" font="Helvetica"/>
+   </graph>
+   <graph strokeWidth="0.5pt" loc="6.66in 5.981in" autorange="yz" width="2in" fontSize="10" clip="true" height="2in">
+      <axis labelOffset="15pt" lineHt="0.8" start="-3.142" spacer="0in" fontSize="11" end="3.142" title="Direction (rad)">
+         <ticks len="0.04in" intv="1" perLogIntv="1" gap="5pt" start="-3" fontSize="10" end="3" fmt="f1"/>
+      </axis>
+      <axis labelOffset="23pt" lineHt="0.8" start="0" spacer="0in" fontSize="11" end="1" title="%">
+         <ticks len="0.04in" intv="0.2" perLogIntv="1" gap="3pt" fontSize="10" fmt="f3"/>
+      </axis>
+      <colorbar cmapnan="ffffff" lineHt="0.8" gap="0.6in" cmap="tropic" start="0" spacer="0.1in" end="100" title="colormap">
+         <ticks intv="10"/>
+      </colorbar>
+      <gridline strokeColor="262626"/>
+      <gridline strokeColor="262626"/>
+      <legend loc="0in 0in" size="0.1in" mid="true"/>
+      <trace strokeWidth="2pt" src="#src_21" legend="false" strokeColor="10abf9">
+         <symbol fillColor="none" size="0pt" type="circle"/>
+         <ebar hide="true"/>
+      </trace>
+      <trace strokeWidth="2pt" src="#src_6" legend="false" strokeColor="ff0b32">
+         <symbol fillColor="none" size="0pt" type="circle"/>
+         <ebar hide="true"/>
+      </trace>
+   </graph>
+   <graph strokeWidth="0.5pt" loc="3.332in 5.938in" autorange="z" width="2in" fontSize="10" clip="true" height="2in">
+      <axis labelOffset="15pt" lineHt="0.8" start="0" spacer="0in" fontSize="11" end="1" title="Kappa">
+         <ticks len="0.04in" intv="0.1" perLogIntv="1" gap="5pt" start="0" fontSize="10" end="1" fmt="f2"/>
+      </axis>
+      <axis labelOffset="29pt" lineHt="0.8" start="0" spacer="0in" fontSize="11" end="0.25" title="%">
+         <ticks len="0.04in" intv="0.05" perLogIntv="1" gap="3pt" start="0" fontSize="10" end="0.25" fmt="f2"/>
+      </axis>
+      <colorbar cmapnan="ffffff" lineHt="0.8" gap="0.6in" cmap="tropic" start="0" spacer="0.1in" end="100" title="colormap">
+         <ticks intv="10"/>
+      </colorbar>
+      <gridline strokeColor="262626"/>
+      <gridline strokeColor="262626"/>
+      <legend loc="0in 0in" size="0.1in" mid="true"/>
+      <raster fillColor="10abf9" mode="normhist" avg="true" src="#src_18" nbins="20" end="1.4" title="kappa3"/>
+      <raster fillColor="ff0b32" mode="normhist" avg="true" src="#src_90" nbins="26" end="1.82" title="kappa2"/>
+      <trace strokePat="dashed" src="#src_17" legend="false" strokeColor="ff0000">
+         <symbol fillColor="none" size="0pt" type="circle"/>
+         <ebar hide="true"/>
+      </trace>
+      <trace strokePat="dashed" src="#src_59" legend="false" strokeColor="0000ff">
+         <symbol fillColor="none" size="0pt" type="circle"/>
+         <ebar hide="true"/>
+      </trace>
+   </graph>
+   <ref >
+      <set id="src_59" fmt="ptset">AAAABnNyY181OQAAAAAAAAACAAAAAj6tNh4AAAAAPq02Hj6AAAA=</set>
+      <set id="src_17" fmt="ptset">AAAABnNyY18xNwAAAAAAAAACAAAAAj6ae9MAAAAAPpp70z6AAAA=</set>
+      <set id="src_90" fmt="raster1d">
+AAAABnNyY185MAAAAAQAAAABAAAAn0MfAAA+HGBjPtp1Vj88jWM+L1w0Pn6C5j6jchs++fvhPpjv
+MT59JLY+zTa/Pp/hfj5x5pw+ceacPkqCXT6yE+g++kiTPl9+qz6JboE9ij9XPUWyDD0r4EI9ZMKF
+PXyJYj8R9xE+0uT0Pi19pD7fPsI+8CCyPwbILT1Och09Lql5PoutVD5ToXA+gONCPx7OsH/AAAA+
+nYZpPphGdD597AM+KDnvPdG9NT2oun1/wAAAPqYYjT2VBus+MfiWPgK0Fz4CtBc+gVzAPZYAjT4a
+xTM+Y08bPmNPGz6VN0c+M1UrPlHdGD4LxsQ+b99uPazD7D4jTxg9DYBMPkED/T20Rrk9bC3DPjJx
+ED3Si9Y9tm9IPlTgiz7dP8A/QactP0FeAT7AdlE+aO+3PkmpiT4VsQ89gyTbPRkERj6qCvY/B1Ae
+P1a6bT501rM+Hd1rPpfBYT6aekk/FFcHPhBu4D8CpZM9gM4PPcqx1j21kls+Z76dPp1kDD6rp2A+
+ebI3PlatPD4JRGA+FbkcPah3Jz6AxUs+EZABPpFi+j5kH9E/SOVhf8AAAD9DvOU+gszUPhhoCz64
+FU0+HggsPopWyD6quh0/GJ2lPpl7NT3Vdz0+P9nrPj/Z6z6nRQU+DYI2Pwwm9T62DNx/wAAAPge7
+8D52y2c90jLDPdIywz4N7ho+l/HXPhAMZj8vB0d/wAAAPzxGMT4hQzs+IUM7PsOwZj4092g+TPFA
+PhyWnz47arg+eqgyPfqu7j6DkRE+NxaxPnojtT4nfi0+Tcy5PjO1XT2zT70+RsBxPkNEWj3LfDM+
+iuw3PdAuID9itvg+9vvkPpIs4D4Brrk/VZs2f8AAAD4Ll+4=
+      </set>
+      <set id="src_18" fmt="raster1d">
+AAAABnNyY18xOAAAAAQAAAABAAAAUkKkAAA+oO9iPb0KJT8vkJo+5rhuPq5EjT6AETg/QbwYPh1b
+rj9Y1ho+ooXFPhGGxz4Rhsc+iazzPd+9DD5xgmw+Cr+BPsQBrz2YA3Q+plwhPnNaBD7tXbw/DiHJ
+Pye/iX/AAAA9zD05P281Hj8f0I8/BjZMPjxhdz32l7M+OP2pPdelhT4OZNw+Sn9DPduM2j4oit49
+51S8Pi7A+j7EYUA+RuPOPo9Nwj5fUwg+/39KPrjjHT9nTUY+RVhfPxVDqD7pM1g+sUG5Pr/MgD1E
+8gE+wCMPPme+nT55sjc+AvNuf8AAAD47UsI+VQE+PjaMST3kRH49BjJZPs3Syj3mxKM+iepsPpvh
+3T2m1nE/Y1jfPkPxbD8Lsd09r1DqP3GYdT4YjBA+M8p9Ppx5RD6LPDF/wAAAPrd0bz4Rh40+LWOC
+PkMw3j6S4Do9qYF0
+      </set>
+      <set id="src_6" fmt="ptset">
+AAAABXNyY182AAAAAAAAAAIAAAFpwEkP2wAAAADAR/HmOGisScBG0/I5aKvbwEW1/ToC4ETARJgJ
+OmiqIcBDehU6tcPlwEJcIDsC3hDAQT4sOzIelMBAIDc7aKMewD8CQzuTNaHAPeROO7W7QMA8xlo7
+2+IkwDuoZjwC1P7AOopxPBmJNsA5bH08Mg2HwDhOiDxMYbnANzCUPGiFjsA2EqA8gzxhwDT0qzyT
+HYXAM9a3PKPmCsAyuMI8tZXFwDGazjzILITAMHzaPNuqE8AvXuU88A46wC5A8T0CrF7ALSL8PQ3E
+qsAsBQg9GU/gwCrnEz0lTdfAKckfPTG+aMAoqys9PqFmwCeNNj1L9qHAJm9CPVm958AlUU09Z/cD
+wCQzWT12obnAIxVlPYLe5sAh93A9iqV+wCDZfD2SpIHAH7uHPZrbysAenZM9o0sywB1/nj2r8o7A
+HGGqPbTRs8AbQ7Y9vehxwBolwT3HNpfAGQfNPdC78cAX6dg92nhHwBbL5D3ka1/AFa3wPe6U+8AU
+j/s9+PTbwBNyBz4BxV3AElQSPgcrKMARNh4+DKuqwBAYKT4SRrrADvo1Phf8MMAN3EE+HcvgwAy+
+TD4jtZzAC6BYPim5NcAKgmM+L9Z5wAlkbz42DTTACEZ7PjxdMcAHKIY+QsY2wAYKkj5JSAjABOyd
+Pk/ia8ADzqk+VpUdwAKwtT5dX93AAZLAPmRCZcAAdMw+azxuv/6trz5yTay//HHGPnl107/6Nd0+
+gFpIv/f59D6EBMq/9b4LPoe6Qr/zgiI+i3qFv/FGOj6PRWS/7wpRPpMasL/szmg+lvo2v+qSfz6a
+48W/6FaWPp7XKL/mGq0+otQnv+PexT6m2oy/4aLcPqrqHb/fZvM+rwKdv90rCj6zI9G/2u8hPrdN
+er/Yszg+u39Wv9Z3UD6/uSS/1DtnPsP6n7/R/34+yEOCv8/DlT7Mk4S/zYesPtDqXL/LS8M+1Ue/
+v8kP2z7Zq2C/xtPyPt4U8L/EmAk+4oQdv8JcID7m+Ja/wCA3PutyBr+95E4+7/AWv7uoZj70cnC/
+uWx9Pvj4ub+3MJQ+/YKVv7T0qz8BB9S/srjCPwNPyr+wfNo/BZj6v65A8T8H4za/rAUIPwouSb+p
+yR8/DHoCv6eNNj8Oxi6/pVFNPxESl7+jFWU/E18Iv6DZfD8Vq02/np2TPxf3Lb+cYao/GkJzv5ol
+wT8cjOW/l+nYPx7WTL+VrfA/IR5uv5NyBz8jZRK/kTYePyWp/L+O+jU/J+zzv4y+TD8qLbu/ioJj
+PyxsGL+IRns/LqfNv4YKkj8w4J6/g86pPzMWTr+BksA/NUigv36trz83d1W/ejXdPzmiMb91vgs/
+O8j0v3FGOj8962C/bM5oP0AJOL9oVpY/QiI8v2PexT9ENi6/X2bzP0ZEz79a7yE/SE3hv1Z3UD9K
+USa/Uf9+P0xOX79Nh6w/TkVOv0kP2z9QNba/RJgJP1IfWb9AIDc/VAH6vzuoZj9V3Vy/NzCUP1ex
+Q78yuMI/WX1zvy5A8T9bQbG/KckfP1z9wr8lUU0/XrFtvyDZfD9gXHi/HGGqP2H+qr8X6dg/Y5fN
+vxNyBz9lJ6q/Dvo1P2auCb8KgmM/aCq4vwYKkj9pnYG/AZLAP2sGMr76Nd0/bGSZvvFGOj9tuIe+
+6FaWP28Byr7fZvM/cEA3vtZ3UD9xc5++zYesP3Kb2L7EmAk/c7i3vruoZj90yhW+srjCP3XPyb6p
+yR8/dsmvvqDZfD93t6O+l+nYP3iZgr6O+jU/eW8svoYKkj96OIK+ejXdP3r1Zr5oVpY/e6W9vlZ3
+UD98SW2+RJgJP3zgXr4yuMI/fWp6viDZfD99562+Dvo1P35X5L36Nd0/frsOvdZ3UD9/ER29srjC
+P39aBb2O+jU/f5W6vVZ3UD9/xDO9Dvo1P3/la7yO+jU/f/laAAAAAD+AAAA8jvo1P3/5Wj0O+jU/
+f+VrPVZ3UD9/xDM9jvo1P3+Vuj2yuMI/f1oFPdZ3UD9/ER09+jXdP367Dj4O+jU/flfkPiDZfD99
+560+MrjCP31qej5EmAk/fOBePlZ3UD98SW0+aFaWP3ulvT56Nd0/evVmPoYKkj96OII+jvo1P3lv
+LD6X6dg/eJmCPqDZfD93t6M+qckfP3bJrz6yuMI/dc/JPruoZj90yhU+xJgJP3O4tz7Nh6w/cpvY
+PtZ3UD9xc58+32bzP3BANz7oVpY/bwHKPvFGOj9tuIc++jXdP2xkmT8BksA/awYyPwYKkj9pnYE/
+CoJjP2gquD8O+jU/Zq4JPxNyBz9lJ6o/F+nYP2OXzT8cYao/Yf6qPyDZfD9gXHg/JVFNP16xbT8p
+yR8/XP3CPy5A8T9bQbE/MrjCP1l9cz83MJQ/V7FDPzuoZj9V3Vw/QCA3P1QB+j9EmAk/Uh9ZP0kP
+2z9QNbY/TYesP05FTj9R/34/TE5fP1Z3UD9KUSY/Wu8hP0hN4T9fZvM/RkTPP2PexT9ENi4/aFaW
+P0IiPD9szmg/QAk4P3FGOj8962A/db4LPzvI9D96Nd0/OaIxP36trz83d1U/gZLAPzVIoD+Dzqk/
+MxZOP4YKkj8w4J4/iEZ7Py6nzT+KgmM/LGwYP4y+TD8qLbs/jvo1Pyfs8z+RNh4/Jan8P5NyBz8j
+ZRI/la3wPyEebj+X6dg/HtZMP5olwT8cjOU/nGGqPxpCcz+enZM/F/ctP6DZfD8Vq00/oxVlPxNf
+CD+lUU0/ERKXP6eNNj8Oxi4/qckfPwx6Aj+sBQg/Ci5JP65A8T8H4zY/sHzaPwWY+j+yuMI/A0/K
+P7T0qz8BB9Q/tzCUPv2ClT+5bH0++Pi5P7uoZj70cnA/veROPu/wFj/AIDc+63IGP8JcID7m+JY/
+xJgJPuKEHT/G0/I+3hTwP8kP2z7Zq2A/y0vDPtVHvz/Nh6w+0OpcP8/DlT7Mk4Q/0f9+PshDgj/U
+O2c+w/qfP9Z3UD6/uSQ/2LM4Prt/Vj/a7yE+t016P90rCj6zI9E/32bzPq8CnT/hotw+quodP+Pe
+xT6m2ow/5hqtPqLUJz/oVpY+ntcoP+qSfz6a48U/7M5oPpb6Nj/vClE+kxqwP/FGOj6PRWQ/84Ii
+Pot6hT/1vgs+h7pCP/f59D6EBMo/+jXdPoBaSD/8ccY+eXXTP/6trz5yTaxAAHTMPms8bkABksA+
+ZEJlQAKwtT5dX91AA86pPlaVHUAE7J0+T+JrQAYKkj5JSAhAByiGPkLGNkAIRns+PF0xQAlkbz42
+DTRACoJjPi/WeUALoFg+Kbk1QAy+TD4jtZxADdxBPh3L4EAO+jU+F/wwQBAYKT4SRrpAETYePgyr
+qkASVBI+BysoQBNyBz4BxV1AFI/7Pfj020AVrfA97pT7QBbL5D3ka19AF+nYPdp4R0AZB8090Lvx
+QBolwT3HNpdAG0O2Pb3ocUAcYao9tNGzQB1/nj2r8o5AHp2TPaNLMkAfu4c9mtvKQCDZfD2SpIFA
+IfdwPYqlfkAjFWU9gt7mQCQzWT12oblAJVFNPWf3A0Amb0I9Wb3nQCeNNj1L9qFAKKsrPT6hZkAp
+yR89Mb5oQCrnEz0lTddALAUIPRlP4EAtIvw9DcSqQC5A8T0CrF5AL17lPPAOOkAwfNo826oTQDGa
+zjzILIRAMrjCPLWVxUAz1rc8o+YKQDT0qzyTHYVANhKgPIM8YUA3MJQ8aIWOQDhOiDxMYblAOWx9
+PDINh0A6inE8GYk2QDuoZjwC1P5APMZaO9viJEA95E47tbtAQD8CQzuTNaFAQCA3O2ijHkBBPiw7
+Mh6UQEJcIDsC3hBAQ3oVOrXD5UBEmAk6aKohQEW1/ToC4ERARtPyOWir20BH8eY4aKxJQEkP2wAA
+AAA=
+      </set>
+      <set id="src_21" fmt="ptset">
+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
+AAAA
+      </set>
+      <set id="src_69" fmt="ptset">AAAABnNyY182OQAAAAAAAAADAAAAAj+AAAA+Fs2vPByv60AAAAA+KTr6PGRsXA==</set>
+      <set id="src_src_13" fmt="mset">AAAACnNyY19zcmNfMTMAAAABAAAAAgAAAAI/gAAAPhbNr0AAAAA+KTr6</set>
+      <set id="src_38" fmt="ptset">AAAABnNyY18zOAAAAAAAAAADAAAAAj+AAABABgJ6PVuwsUAAAABACL0MPYY65g==</set>
+      <set id="src_src_5" fmt="mset">AAAACXNyY19zcmNfNQAAAAEAAAACAAAAAj+AAABABgJ6QAAAAEAIvQw=</set>
+   </ref>
+</figure>
+
